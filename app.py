@@ -6,9 +6,9 @@ st.set_page_config(
 )
 
 list_word = [
-    ["aaa","a1"],
-    ["bbb","b2"],
-    ["ccc","c3"],
+    ["aaa","Aa1"],
+    ["bbb","Bb2"],
+    ["ccc","Cc3"],
     ["ddd","d4"],
     ["eee",'e5'],
     ["fff","f6"],
